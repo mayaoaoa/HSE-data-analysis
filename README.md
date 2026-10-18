@@ -11,7 +11,7 @@
 
 **Стек:**
 
-`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scipy`,` Sklearn`
+`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scipy`, `Sklearn`
 
 --------------------------
 
